@@ -15,3 +15,6 @@ In the non-graphical approach, you will be using functions such as shape, summar
 In the graphical approach, you will be using plots such as scatter, box, bar, density and correlation plots.
 
 In this folder, there are projects which shows how an EDA is done and what insights do we get to derive from data during this awesome process
+
+References: https://www.journaldev.com/53190/exploratory-data-analysis-python
+https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14
