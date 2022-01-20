@@ -11,6 +11,6 @@ What are the lowest risk college majors from an earnings standpoint?
 
 Do business, STEM (Science, Technology, Engineering, Mathematics) or HASS (Humanities, Arts, Social Science) degrees earn more on average?
 
-The analyis for all above questions is doen in this project.
+The analyis for all above questions is done in this project.
 
 Datset: https://www.payscale.com/college-salary-report/majors-that-pay-you-back/bachelors
