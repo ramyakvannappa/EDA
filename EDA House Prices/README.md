@@ -10,36 +10,24 @@ Dataset :
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 Lifecycle In A Data Science Projects
-Data Analysis
-Feature Engineering
-Feature Selection
-Model Building
-Model Deployment
+1. Data Analysis
+2. Feature Engineering
+3. Feature Selection
+4. Model Building
+5. Model Deployment
 
 1.Data Analysis
-Missing Values: How many features have missing values?
-
-Numerical Variables : How many features are Numerical?
-
-Date Time Variables : Handled date-time features
-
-Plotting the relationship between yearsold and saleprice
-
-Discrete Variables : Extracting the discrete variables
-
-Finding the relationship between the discrete variables and saleprice
-
-Continuous Variables: Extracting the continuous variables
-
-Analyzing the distribution of the Numerical Variables
-
-Outliers : Figuring out the outliers
-
-Categorical Variables: Extracting the categorical variables
-
-Unique: Figuring out unique categories in each categorical feature
-
-
+  1.a) Missing Values: How many features have missing values?
+  1.b) Numerical Variables : How many features are Numerical? 
+  1.c) Date Time Variables : Handled date-time features
+  1.d) Plotting the relationship between yearsold and saleprice
+  1.e) Discrete Variables : Extracting the discrete variables
+  1.f) Finding the relationship between the discrete variables and saleprice
+  1.g) Continuous Variables: Extracting the continuous variables
+  1.h) Analyzing the distribution of the Numerical Variables
+  1.i) Outliers : Figuring out the outliers
+  1.j) Categorical Variables: Extracting the categorical variables
+  1.k) Unique: Figuring out unique categories in each categorical feature
 
 
 2. Feature Engineering
