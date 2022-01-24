@@ -18,15 +18,25 @@ Lifecycle In A Data Science Projects
 
 1.Data Analysis
   1.a) Missing Values: How many features have missing values?
+
   1.b) Numerical Variables : How many features are Numerical? 
+
   1.c) Date Time Variables : Handled date-time features
+
   1.d) Plotting the relationship between yearsold and saleprice
+
   1.e) Discrete Variables : Extracting the discrete variables
+  
   1.f) Finding the relationship between the discrete variables and saleprice
+  
   1.g) Continuous Variables: Extracting the continuous variables
+  
   1.h) Analyzing the distribution of the Numerical Variables
+  
   1.i) Outliers : Figuring out the outliers
+  
   1.j) Categorical Variables: Extracting the categorical variables
+  
   1.k) Unique: Figuring out unique categories in each categorical feature
 
 
