@@ -12,18 +12,19 @@ In this analysis, we use machine learning to create a model that predicts which 
 Train.csv will contain the details of a subset of the passengers on board (891 to be exact) and importantly, will reveal whether they survived or not, also known as the “ground truth”.
 
 #### Metadata:
-pclass: A proxy for socio-economic status (SES)
-1st = Upper
-2nd = Middle
-3rd = Lower
 
-age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+###### pclass: A proxy for socio-economic status (SES)
+- 1st = Upper
+- 2nd = Middle
+- 3rd = Lower
 
-sibsp: The dataset defines family relations in this way...
-Sibling = brother, sister, stepbrother, stepsister
-Spouse = husband, wife (mistresses and fiancés were ignored)
+###### age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
 
-parch: The dataset defines family relations in this way...
-Parent = mother, father
-Child = daughter, son, stepdaughter, stepson
-Some children travelled only with a nanny, therefore parch=0 for them
+###### sibsp: The dataset defines family relations in this way...
+- Sibling = brother, sister, stepbrother, stepsister
+- Spouse = husband, wife (mistresses and fiancés were ignored)
+
+###### parch: The dataset defines family relations in this way...
+- Parent = mother, father
+- Child = daughter, son, stepdaughter, stepson
+- Some children travelled only with a nanny, therefore parch=0 for them
