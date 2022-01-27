@@ -1,4 +1,4 @@
-Exploratory Data Analysis – EDA
+# Exploratory Data Analysis – EDA
 
 EDA is applied to investigate the data and summarize the key insights.
 
